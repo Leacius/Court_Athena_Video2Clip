@@ -10,3 +10,6 @@ conda activate process
 ~~~
 pip install -r requirements.txt
 ~~~
+3. Data path
+   1. Put your video file in ~./video/<your file name>.mp4~
+   2. Put your json file in ~./video/<your file name>.json~
