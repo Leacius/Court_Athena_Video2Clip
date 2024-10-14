@@ -1,0 +1,5 @@
+PyYAML==6.0.2
+tqdm==4.66.5
+opencv-python==4.10.0.84
+opencv-contrib-python==4.10.0.84
+pandas==2.2.3
