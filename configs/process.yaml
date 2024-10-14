@@ -1,0 +1,7 @@
+# Data Configs
+video_path: ./video/
+json_path: ./json/
+
+# Save Configs
+save_clips: False
+eventType: both # help='both / serves / actions')
